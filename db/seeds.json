@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Cake By The Ocean",
       "artist": "DNCE",
-      "songUrl": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC?si=8aaf9bd29c4947cc",
+      "songUrl": "https://open.spotify.com/embed/track/76hfruVvmfQbw0eYn1nmeC",
       "year": "2016",
       "likes": 0
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Treasure",
       "artist": "Bruno Mars",
-      "songUrl": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7?si=ab6229033dd247d8",
+      "songUrl": "https://open.spotify.com/embed/track/55h7vJchibLdUkxdlX3fK7",
       "year": "2012",
       "likes": 0
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "name": "Beach Cowboy",
       "artist": "Brian Kelley",
-      "songUrl": "https://open.spotify.com/track/0hYyHSuIKAvSdv1MwUkojC?si=982f5bce662d4f83",
+      "songUrl": "https://open.spotify.com/embed/track/0hYyHSuIKAvSdv1MwUkojC",
       "year": "2021",
       "likes": 0
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "name": "Better on the Water",
       "artist": "Ashley McBryde",
-      "songUrl": "https://open.spotify.com/track/1eKE1jKNvEHm4BreOJofs6?si=36987fc351a14d77",
+      "songUrl": "https://open.spotify.com/embed/track/1eKE1jKNvEHm4BreOJofs6",
       "year": "2016",
       "likes": 0
     }
