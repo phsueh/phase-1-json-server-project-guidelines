@@ -6,7 +6,7 @@
       "artist": "Carrie Underwood",
       "songUrl": "https://open.spotify.com/embed/track/7qXPZxXn6Xmv1sjh03skiW",
       "year": "2018",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
       "artist": "DNCE",
       "songUrl": "https://open.spotify.com/embed/track/76hfruVvmfQbw0eYn1nmeC",
       "year": "2016",
-      "likes": 0
+      "likes": 3
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "artist": "Bruno Mars",
       "songUrl": "https://open.spotify.com/embed/track/55h7vJchibLdUkxdlX3fK7",
       "year": "2012",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 6,
@@ -54,7 +54,7 @@
       "artist": "Ashley McBryde",
       "songUrl": "https://open.spotify.com/embed/track/1eKE1jKNvEHm4BreOJofs6",
       "year": "2016",
-      "likes": 0
+      "likes": 2
     }
   ]
 }
